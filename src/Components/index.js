@@ -5,7 +5,7 @@ import contacts from './contacts.js'
 
 const insertData = (contact) => {
   return(
-    <Card name={contact.name} source={contact.source} email={contact.email} />
+    <Card key={contact.id} name={contact.name} source={contact.source} email={contact.email} />
   )
 }
 

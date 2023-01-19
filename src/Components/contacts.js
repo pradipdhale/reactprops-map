@@ -31,7 +31,7 @@ const contacts = [
     id: 5,
     name: 'Ruturaj Gaikwad',
     source:
-      'https://www.newsmasterravi.com/wp-content/uploads/2021/11/fe4ac334e09064a34b3193e684bb48a5.jpg',
+      'https://static.tnn.in/photo/89274952/89274952.jpg?v=3',
     email: 'ruturajgaikwad123@gmail.com',
   },
 ]
